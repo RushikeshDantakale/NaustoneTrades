@@ -1,0 +1,10 @@
+.heading-app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:30px 0 ;
+  font-size: 30px;
+}
+.app{
+  background-color: rgb(197, 246, 173);
+}

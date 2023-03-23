@@ -1,0 +1,44 @@
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.data{
+    height:30px;
+width: 120px;
+padding: 3px 6px;
+display: flex;
+align-items: center;
+border: 1px solid black;
+}
+
+.heading{
+    color: gray;
+    font-weight: 500;
+    justify-content: center;
+}
+
+
+
+.data-heading{
+    display: flex;
+}
+
+.btn-edit{
+    margin-left: 5px;
+    background-color: rgb(19, 174, 19);
+    color:white;
+    font-weight: 700;
+    font-size: 15px;
+    border:2px solid white;
+    border-radius: 10px;
+    padding: 3px 30px;
+}
+
+.btn-edit:hover{
+    background-color: rgb(15, 161, 15);
+    outline: 1px solid rgb(15, 161, 15) ;
+
+}
